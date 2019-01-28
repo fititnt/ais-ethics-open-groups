@@ -1,16 +1,24 @@
 # ais-ethics-open-groups
-**[work-in-progress] Curated list of groups where is possible to discuss
-over the internet beyond tecnical part of Artificial Intelligence and
-Autonomous Systems (A/IS). Ethics, morality, ...**
+**[work-in-progress] Curated list of _Open_ Groups (accessible to persons who
+are not yet experts and do not require association with an institution) to
+discuss Ethics of Autonomous and Intelligent Systems (A/IS).** AI Ethics,
+Algorithmic Bias, Ethics of Automation, Existential Risks, Friendly Artificial
+Intelligence, Future of Work, Human Rights, Information Ethics, Machine Ethics,
+Philosophy of AI, Privacy, Roboethics, Robot Rights...
+
+![Banner: Open Groups to discuss to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
 
 _See also:
-[ais-ethics](https://github.com/fititnt/ais-ethics) |
 ais-ethics-open-groups |
 [ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
 [ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)_
 
+# Open Groups
 
-## [Artificial Intelligence Stack Exchange](https://ai.stackexchange.com/)
+## English
+
+### Artificial Intelligence Stack Exchange
+
 > Artificial Intelligence Stack Exchange is a question and answer site for
 people interested in AI theory, mathematics, research, discovery, design,
 development, practice, embedded uses, cognition, policy, and impact. It's
@@ -18,8 +26,7 @@ built and run by you as part of the Stack Exchange network of Q&A sites. With
 your help, we're working together to build a library of detailed answers to
 every question about artificial intelligence.
 
-- **Language**: English
-- **Etiquete**: [Code of Conduct](https://ai.stackexchange.com/conduct) | [Expected Behavior](https://ai.stackexchange.com/help/behavior)
+- **Etiquete**: [Code of Conduct](https://ai.stackexchange.com/conduct) \| [Expected Behavior](https://ai.stackexchange.com/help/behavior)
 - **Links:**
   - Main URL: <https://ai.stackexchange.com/>
   - Suggested tags:
@@ -27,7 +34,8 @@ every question about artificial intelligence.
     - [tag: philosophy](https://ai.stackexchange.com/questions/tagged/philosophy)
     - [tag: value-alignment](https://ai.stackexchange.com/questions/tagged/value-alignment)
 
-## [EthicsNet](http://forum.ethicsnet.com/)
+### EthicsNet
+
 > EthicsNet, a non-profit, is building a community with the purpose of
 co-creating examples of nice behaviours, to help socialise A.I. (...)
 We want to do the same for the space of kind behaviours – a massive
@@ -36,24 +44,34 @@ that reflect many different cultures, opinions and creeds, and which can expand
 in scope and nuance over time, to empower socially-aware thinking machines for
 generations to come.
 
-- **Language**: English
 - **Etiquete**: See [About EthicsNet](https://www.ethicsnet.com/about/)
 - **Links:**
   - Forum: <http://forum.ethicsnet.com/>
   - Facebook Group: <https://www.facebook.com/groups/1241275855972131/>
 
-# Other potential places to discuss
+# Other
 
-## [Reddit: AIethics](https://www.reddit.com/r/AIethics/)
+## English
+
+### OpenAI Forum
+> The OpenAI discuss forum (was) a greap place to find deeper discussions, **but
+at this moment the URL is not acessible (error: ERR_NAME_NOT_RESOLVED).**
+
+- **Links**:
+  - Forum: <https://discuss.openai.com>
+
+### Reddit: AIethics
 > Discussion of how artificial intelligence agents should behave and how we
 should treat them
 
-- **Language**: English
 - **Links**:
   - Reddit: <https://www.reddit.com/r/AIethics/>
 
-## [Group: Artificial General Intelligence (AGI)](https://www.facebook.com/groups/propBitDev/)
-- **Language**: English
+### Facebook: Robot Ethics
+- **Links**:
+  - Facebook Group: <https://www.facebook.com/groups/47284606550/>
+
+### Facebook: Artificial General Intelligence (AGI)
 - Facebook Group: <https://www.facebook.com/groups/propBitDev/>
 - Skype Group: _super_jen96_ [TODO: note to self, join this skype group]
 
