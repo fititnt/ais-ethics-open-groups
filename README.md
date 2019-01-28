@@ -1,17 +1,21 @@
-# ais-ethics-open-groups
+![Banner: Open Groups to discuss to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
+
+[![Open Groups](badges/open-groups.svg)](#open-groups) [![English](badges/open-groups-english.svg)](#english)  [![English](badges/open-groups-non-english.svg)](#non-english) [![Other Groups](badges/other-groups.svg)](#other-groups)
+
+_See also:
+ais-ethics-open-groups |
+[ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
+[ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)_
+
+---
+
+# A/IS Ethics Open Groups
 **[work-in-progress] Curated list of _Open_ Groups (accessible to persons who
 are not yet experts and do not require association with an institution) to
 discuss Ethics of Autonomous and Intelligent Systems (A/IS).** AI Ethics,
 Algorithmic Bias, Ethics of Automation, Existential Risks, Friendly Artificial
 Intelligence, Future of Work, Human Rights, Information Ethics, Machine Ethics,
 Philosophy of AI, Privacy, Roboethics, Robot Rights...
-
-![Banner: Open Groups to discuss to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
-
-_See also:
-ais-ethics-open-groups |
-[ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
-[ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)_
 
 # Open Groups
 
@@ -49,7 +53,12 @@ generations to come.
   - Forum: <http://forum.ethicsnet.com/>
   - Facebook Group: <https://www.facebook.com/groups/1241275855972131/>
 
-# Other
+## Non-English
+
+_TODO: add a message about we need help around the world to promote more
+non-English discussions around A/IS Ethics (fititnt, 2019-01-28 02:19 BRST)._
+
+# Other Groups
 
 ## English
 
