@@ -120,3 +120,11 @@ Links that (for Now) will not be included
              machines is ethical or not is a profound waste of time."
 
 -->
+
+# License
+
+[![Public Domain](https://i.creativecommons.org/p/zero/1.0/88x31.png)](UNLICENSE)
+
+To the extent possible under law, [Emerson Rocha](https://github.com/fititnt)
+has waived all copyright and related or neighboring rights to this work to
+[Public Domain](UNLICENSE).
