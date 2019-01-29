@@ -1,6 +1,6 @@
 ![Banner: Open Groups to discuss to Ethics of Autonomous and Intelligent Systems (A/IS)](banner.png)
 
-[![Open Groups](badges/open-groups.svg)](#open-groups) [![English](badges/open-groups-english.svg)](#english)  [![English](badges/open-groups-non-english.svg)](#non-english) [![Other Groups](badges/other-groups.svg)](#other-groups)
+Quick links: [![Open Groups](badges/open-groups.svg)](#open-groups) [![English](badges/open-groups-english.svg)](#english)  [![English](badges/open-groups-non-english.svg)](#non-english) [![Other Groups](badges/other-groups.svg)](#other-groups)
 
 _**See also:
 ais-ethics-open-groups |
@@ -16,6 +16,19 @@ discuss Ethics of Autonomous and Intelligent Systems (A/IS).** AI Ethics,
 Algorithmic Bias, Ethics of Automation, Existential Risks, Friendly Artificial
 Intelligence, Future of Work, Human Rights, Information Ethics, Machine Ethics,
 Philosophy of AI, Privacy, Roboethics, Robot Rights...
+
+## The reason behind this document
+A/IS Ethics _**is**_ a transdisciplinary area. Even in fewer regions of the
+world where the artificial intelligence development (_e.g. **how to make it
+work**_) has more academic and professional experts, the engajement of people
+outside of computer science field to discuss implementations and even standards
+of A/IS Ethics (e.g. _**even if we can do this, should we do it? (rights vs
+wrong)**_) could be higher. So, what do we should expect for the other regions
+of the world?
+
+### Even experts outside computer science can have fear to express their opinion even when is what could better anwser
+
+(...)
 
 # Open Groups
 
@@ -120,6 +133,18 @@ Links that (for Now) will not be included
              machines is ethical or not is a profound waste of time."
 
 -->
+
+# What to do next?
+
+(...)
+
+# Contributions
+Ways to contribute with suggestions, critics, etc:
+
+- [Open a issue](https://help.github.com/articles/creating-an-issue/)
+- [Make a Pull request](https://help.github.com/articles/about-pull-requests/)
+- Talk via e-mail:
+  - with the maintainer: Emerson Rocha <rocha@ieee.org>.
 
 # License
 
