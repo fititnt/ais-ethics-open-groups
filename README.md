@@ -2,15 +2,15 @@
 
 [![Open Groups](badges/open-groups.svg)](#open-groups) [![English](badges/open-groups-english.svg)](#english)  [![English](badges/open-groups-non-english.svg)](#non-english) [![Other Groups](badges/other-groups.svg)](#other-groups)
 
-_See also:
+_**See also:
 ais-ethics-open-groups |
 [ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs) |
-[ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)_
+[ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards)**_
 
 ---
 
 # A/IS Ethics Open Groups
-**[work-in-progress] Curated list of _Open_ Groups (accessible to persons who
+![Work in Progress](badges/status-work-in-progress.svg) **Curated list of _Open_ Groups (accessible to persons who
 are not yet experts and do not require association with an institution) to
 discuss Ethics of Autonomous and Intelligent Systems (A/IS).** AI Ethics,
 Algorithmic Bias, Ethics of Automation, Existential Risks, Friendly Artificial
@@ -59,6 +59,15 @@ _TODO: add a message about we need help around the world to promote more
 non-English discussions around A/IS Ethics (fititnt, 2019-01-28 02:19 BRST)._
 
 # Other Groups
+
+In addition to the suggested [Open Groups](#open-groups), these links below are
+potential candidates, but are not suggested by default at this time as they are
+still under review (e.g. the autor of this repository is following each one).
+
+One potential issue (that in fact was very common on references that are not
+even listed here) is that some open groups related to artificial intelligence
+seems to be unfriendly to non machine learning / deep learning / "how to use
+this tool" discussions.
 
 ## English
 
