@@ -17,18 +17,9 @@ Algorithmic Bias, Ethics of Automation, Existential Risks, Friendly Artificial
 Intelligence, Future of Work, Human Rights, Information Ethics, Machine Ethics,
 Philosophy of AI, Privacy, Roboethics, Robot Rights...
 
-## The reason behind this document
-A/IS Ethics _**is**_ a transdisciplinary area. Even in fewer regions of the
-world where the artificial intelligence development (_e.g. **how to make it
-work**_) has more academic and professional experts, the engajement of people
-outside of computer science field to discuss implementations and even standards
-of A/IS Ethics (e.g. _**even if we can do this, should we do it? (rights vs
-wrong)**_) could be higher. So, what do we should expect for the other regions
-of the world?
+To know why this list was created, jump to [Reasons to promote A/IS Ethics Open Groups](#reasons-to-promote-ais-ethics-open-groups).
 
-### Even experts outside computer science can have fear to express their opinion even when is what could better anwser
-
-(...)
+---
 
 # Open Groups
 
@@ -68,8 +59,23 @@ generations to come.
 
 ## Non-English
 
-_TODO: add a message about we need help around the world to promote more
-non-English discussions around A/IS Ethics (fititnt, 2019-01-28 02:19 BRST)._
+### Need your help!
+
+#### Suggest a new Open Group
+If you know potential candidates to non-English open groups, [send
+your suggestion](#contributions).
+
+#### Help to found a new Open Group
+Even if you (on this date) does not consider yourself yet with _good_ knowledge of
+artificial intelligence and/or ethics, but have experience as moderator on
+forums and is open to accept external help from other parts of the world to
+give a great bootstrap on your regional community, send one e-mail to
+<rocha@ieee.org>. Let's talk.
+
+And it's ok if you do not know well the English language or have have other
+challanges than on average people who works with IT tend to ignore. On some
+closed groups on Africa we use machine translation and moderators contribute
+even from phones with limited bandwidth and/or using Facebook with zero-rating.
 
 # Other Groups
 
@@ -134,9 +140,57 @@ Links that (for Now) will not be included
 
 -->
 
+
 # What to do next?
 
+## Read A/IS Standards
+
+A suggested starting point is [ais-ethics-standards](https://github.com/fititnt/ais-ethics-standards).
+
+## Participate on A/IS Ethics "Closed" Groups
+
+Some organizations that already work with A/IS Ethics may also have discussion
+forums which, by having some additional requirement (for example, being an
+university student or already a specialist in one area), are not on this
+list because are considered "Closed" Groups.
+
+A suggested starting point is [ais-ethics-orgs](https://github.com/fititnt/ais-ethics-orgs).
+
+## Participate on a existent open group or create a new
+
+### Reasons to promote A/IS Ethics Open Groups
+A/IS Ethics is a transdisciplinary area. Even in fewer regions of the
+world where the artificial intelligence development (_e.g. **how to do this?
+(implementation)**_) has more academic and professional experts (mostly likely
+because of decades of government investment and growth of the local high tech
+industry), the engajement of people outside of computer science field to discuss
+implementations and even standards of A/IS Ethics (e.g. _**should we do this?
+(rights vs wrong)**_) could be higher. So, how more
+challanging could in the rest of the world?
+
+Activism (both anti and pro some A/IS specific implementation) to promote more
+immediate changes in a society using argumentations that the _averange person_
+could agree can sometimes lead to negative effect on social well-being.
+
+> _TODO: improve this draft of 'Reasons to promote A/IS Ethics Open Groups' (fititnt, 2018-01-29 18:36 BRST)_
+
+<!--
+
+### The challenge of self-doubt
+
+Even experts outside computer science can have fear to express their opinion even when is what could better anwser
+
 (...)
+
+### Activism can be a double-edged sword
+To make it clear upfront: we should respect people who do activism to promote
+more immediate changes and **act in good faith**, even if we strongly disagree.
+
+But assume that is likely to take some time to be respected back, as some
+counter-argumentations we have to deal could be a result of what they deal
+in figths (argumentations) we're not able to see.
+
+-->
 
 # Contributions
 Ways to contribute with suggestions, critics, etc:
