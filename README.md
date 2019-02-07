@@ -90,13 +90,6 @@ this tool" discussions.
 
 ## English
 
-### OpenAI Forum
-> The OpenAI discuss forum (was) a greap place to find deeper discussions, **but
-at this moment the URL is not acessible (error: ERR_NAME_NOT_RESOLVED).**
-
-- **Links**:
-  - Forum: <https://discuss.openai.com>
-
 ### Reddit: AIethics
 > Discussion of how artificial intelligence agents should behave and how we
 should treat them
