@@ -52,9 +52,9 @@ that reflect many different cultures, opinions and creeds, and which can expand
 in scope and nuance over time, to empower socially-aware thinking machines for
 generations to come.
 
-- **Etiquete**: See [About EthicsNet](https://www.ethicsnet.com/about/)
+- **Etiquete**: See [About EthicsNet](https://www.ethicsnet.org/about/)
 - **Links:**
-  - Forum: <http://forum.ethicsnet.com/>
+  - Forum: <https://forums.ethicsnet.org/>
   - Facebook Group: <https://www.facebook.com/groups/1241275855972131/>
 
 ## Non-English
